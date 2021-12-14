@@ -1,0 +1,26 @@
+{
+  "mobileWebC":
+  {
+    {
+      "bookName": "TypeScript",
+      "publisher": "Layla-Mae Williamson",
+      "author": "Jamal Hibbert",
+      "opinion": "Good",
+      "rating": "7/10"
+    },
+    {
+      "bookName": "Service",
+      "publisher": "Mike Medina",
+      "author": "Jorja Wheatley",
+      "opinion": "Great",
+      "rating": "8/10"
+    },
+    {
+      "bookName": "JSON",
+      "publisher": "Herbert Terrell",
+      "author": "Louise Chavez",
+      "opinion": "Perfect",
+      "rating": "10/10"
+    }
+  }
+}
