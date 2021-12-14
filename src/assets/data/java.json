@@ -1,0 +1,26 @@
+{
+  "javaC":
+  {
+    {
+      "bookName": "Variables",
+      "publisher": "Tom Booker",
+      "author": "Arun Simon",
+      "opinion": "Decent",
+      "rating": "6/10"
+    },
+    {
+      "bookName": "Classes",
+      "publisher": "Will Crossley",
+      "author": "Katya Bowes",
+      "opinion": "Good",
+      "rating": "6/10"
+    },
+    {
+      "bookName": "Objects",
+      "publisher": "Vivaan Nichols",
+      "author": "Lorelei Wiley",
+      "opinion": "Great",
+      "rating": "7/10"
+    }
+  }
+}
