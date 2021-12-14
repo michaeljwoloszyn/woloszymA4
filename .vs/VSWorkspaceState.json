@@ -2,8 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\app"
+    "\\src\\app",
+    "\\src\\app\\book",
+    "\\src\\app\\footer",
+    "\\src\\app\\header",
+    "\\src\\assets",
+    "\\src\\assets\\data",
+    "\\src\\environments"
   ],
-  "SelectedNode": "\\src\\app\\pass-along.service.ts",
+  "SelectedNode": "\\src\\app",
   "PreviewInSolutionExplorer": false
 }
